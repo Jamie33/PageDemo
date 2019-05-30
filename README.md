@@ -1,7 +1,9 @@
 This repository is where I publish my demos for others to view
 
-https://jamie33.github.io/PageDemo/qutoutiao.html
+Table of Contents
 
-https://jamie33.github.io/PageDemo/shopee_data_analysis-TW.html
+- [Python3 + Appium + Andriod 趣头条脚本](https://jamie33.github.io/PageDemo/qutoutiao.html)
 
-https://jamie33.github.io/PageDemo/shopee_data_analysis.html
+- [利用 python 对 shopee TW站 八大品类商品进行数据分析](https://jamie33.github.io/PageDemo/shopee_data_analysis-TW .html)
+
+- [利用 python 对 shopee 四大品类商品进行数据分析](https://jamie33.github.io/PageDemo/shopee_data_analysis.html)
